@@ -1,0 +1,13 @@
+C:\Users\Pablo\source\repos\ConsumoWeb\bin\Debug\ConsumoWeb.exe.config
+C:\Users\Pablo\source\repos\ConsumoWeb\bin\Debug\ConsumoWeb.exe
+C:\Users\Pablo\source\repos\ConsumoWeb\bin\Debug\ConsumoWeb.pdb
+C:\Users\Pablo\source\repos\ConsumoWeb\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pablo\source\repos\ConsumoWeb\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pablo\source\repos\ConsumoWeb\obj\Debug\ConsumoWeb.csproj.AssemblyReference.cache
+C:\Users\Pablo\source\repos\ConsumoWeb\obj\Debug\ConsumoWeb.Form1.resources
+C:\Users\Pablo\source\repos\ConsumoWeb\obj\Debug\ConsumoWeb.Properties.Resources.resources
+C:\Users\Pablo\source\repos\ConsumoWeb\obj\Debug\ConsumoWeb.csproj.GenerateResource.cache
+C:\Users\Pablo\source\repos\ConsumoWeb\obj\Debug\ConsumoWeb.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\ConsumoWeb\obj\Debug\ConsumoWeb.csproj.CopyComplete
+C:\Users\Pablo\source\repos\ConsumoWeb\obj\Debug\ConsumoWeb.exe
+C:\Users\Pablo\source\repos\ConsumoWeb\obj\Debug\ConsumoWeb.pdb

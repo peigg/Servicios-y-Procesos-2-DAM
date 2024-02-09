@@ -1,0 +1,16 @@
+C:\Users\danhm\source\repos\Proceso\SelArchivo\bin\Debug\net7.0-windows\2_SelArchivo.exe
+C:\Users\danhm\source\repos\Proceso\SelArchivo\bin\Debug\net7.0-windows\2_SelArchivo.deps.json
+C:\Users\danhm\source\repos\Proceso\SelArchivo\bin\Debug\net7.0-windows\2_SelArchivo.runtimeconfig.json
+C:\Users\danhm\source\repos\Proceso\SelArchivo\bin\Debug\net7.0-windows\2_SelArchivo.dll
+C:\Users\danhm\source\repos\Proceso\SelArchivo\bin\Debug\net7.0-windows\2_SelArchivo.pdb
+C:\Users\danhm\source\repos\Proceso\SelArchivo\obj\Debug\net7.0-windows\SelArchivo.Form1.resources
+C:\Users\danhm\source\repos\Proceso\SelArchivo\obj\Debug\net7.0-windows\2_SelArchivo.csproj.GenerateResource.cache
+C:\Users\danhm\source\repos\Proceso\SelArchivo\obj\Debug\net7.0-windows\2_SelArchivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danhm\source\repos\Proceso\SelArchivo\obj\Debug\net7.0-windows\2_SelArchivo.AssemblyInfoInputs.cache
+C:\Users\danhm\source\repos\Proceso\SelArchivo\obj\Debug\net7.0-windows\2_SelArchivo.AssemblyInfo.cs
+C:\Users\danhm\source\repos\Proceso\SelArchivo\obj\Debug\net7.0-windows\2_SelArchivo.csproj.CoreCompileInputs.cache
+C:\Users\danhm\source\repos\Proceso\SelArchivo\obj\Debug\net7.0-windows\2_SelArchivo.dll
+C:\Users\danhm\source\repos\Proceso\SelArchivo\obj\Debug\net7.0-windows\refint\2_SelArchivo.dll
+C:\Users\danhm\source\repos\Proceso\SelArchivo\obj\Debug\net7.0-windows\2_SelArchivo.pdb
+C:\Users\danhm\source\repos\Proceso\SelArchivo\obj\Debug\net7.0-windows\2_SelArchivo.genruntimeconfig.cache
+C:\Users\danhm\source\repos\Proceso\SelArchivo\obj\Debug\net7.0-windows\ref\2_SelArchivo.dll

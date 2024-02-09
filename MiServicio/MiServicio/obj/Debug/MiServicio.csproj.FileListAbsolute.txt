@@ -1,0 +1,10 @@
+C:\Users\Pablo\source\repos\MiServicio\MiServicio\bin\Debug\MiServicio.exe.config
+C:\Users\Pablo\source\repos\MiServicio\MiServicio\bin\Debug\MiServicio.exe
+C:\Users\Pablo\source\repos\MiServicio\MiServicio\bin\Debug\MiServicio.pdb
+C:\Users\Pablo\source\repos\MiServicio\MiServicio\obj\Debug\MiServicio.csproj.AssemblyReference.cache
+C:\Users\Pablo\source\repos\MiServicio\MiServicio\obj\Debug\MiServicio.MiServicio.resources
+C:\Users\Pablo\source\repos\MiServicio\MiServicio\obj\Debug\MiServicio.ProjectInstaller.resources
+C:\Users\Pablo\source\repos\MiServicio\MiServicio\obj\Debug\MiServicio.csproj.GenerateResource.cache
+C:\Users\Pablo\source\repos\MiServicio\MiServicio\obj\Debug\MiServicio.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\MiServicio\MiServicio\obj\Debug\MiServicio.exe
+C:\Users\Pablo\source\repos\MiServicio\MiServicio\obj\Debug\MiServicio.pdb

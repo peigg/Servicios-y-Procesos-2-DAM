@@ -1,0 +1,10 @@
+C:\Users\Pablo\source\repos\PipeFromCliente\bin\Debug\PipeFromCliente.exe.config
+C:\Users\Pablo\source\repos\PipeFromCliente\bin\Debug\PipeFromCliente.exe
+C:\Users\Pablo\source\repos\PipeFromCliente\bin\Debug\PipeFromCliente.pdb
+C:\Users\Pablo\source\repos\PipeFromCliente\obj\Debug\PipeFromCliente.csproj.AssemblyReference.cache
+C:\Users\Pablo\source\repos\PipeFromCliente\obj\Debug\PipeFromCliente.Form1.resources
+C:\Users\Pablo\source\repos\PipeFromCliente\obj\Debug\PipeFromCliente.Properties.Resources.resources
+C:\Users\Pablo\source\repos\PipeFromCliente\obj\Debug\PipeFromCliente.csproj.GenerateResource.cache
+C:\Users\Pablo\source\repos\PipeFromCliente\obj\Debug\PipeFromCliente.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\PipeFromCliente\obj\Debug\PipeFromCliente.exe
+C:\Users\Pablo\source\repos\PipeFromCliente\obj\Debug\PipeFromCliente.pdb

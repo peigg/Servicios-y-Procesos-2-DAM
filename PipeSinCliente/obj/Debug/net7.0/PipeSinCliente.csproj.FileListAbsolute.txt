@@ -1,0 +1,42 @@
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeSinCliente\bin\Debug\net7.0\PipeSinCliente.exe
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeSinCliente\bin\Debug\net7.0\PipeSinCliente.deps.json
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeSinCliente\bin\Debug\net7.0\PipeSinCliente.runtimeconfig.json
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeSinCliente\bin\Debug\net7.0\PipeSinCliente.dll
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeSinCliente\bin\Debug\net7.0\PipeSinCliente.pdb
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeSinCliente\obj\Debug\net7.0\PipeSinCliente.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeSinCliente\obj\Debug\net7.0\PipeSinCliente.AssemblyInfoInputs.cache
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeSinCliente\obj\Debug\net7.0\PipeSinCliente.AssemblyInfo.cs
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeSinCliente\obj\Debug\net7.0\PipeSinCliente.csproj.CoreCompileInputs.cache
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeSinCliente\obj\Debug\net7.0\PipeSinCliente.dll
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeSinCliente\obj\Debug\net7.0\refint\PipeSinCliente.dll
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeSinCliente\obj\Debug\net7.0\PipeSinCliente.pdb
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeSinCliente\obj\Debug\net7.0\PipeSinCliente.genruntimeconfig.cache
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeSinCliente\obj\Debug\net7.0\ref\PipeSinCliente.dll
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1Programacion de Procesos\Codigos\PipeSinCliente\bin\Debug\net7.0\PipeSinCliente.exe
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1Programacion de Procesos\Codigos\PipeSinCliente\bin\Debug\net7.0\PipeSinCliente.deps.json
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1Programacion de Procesos\Codigos\PipeSinCliente\bin\Debug\net7.0\PipeSinCliente.runtimeconfig.json
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1Programacion de Procesos\Codigos\PipeSinCliente\bin\Debug\net7.0\PipeSinCliente.dll
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1Programacion de Procesos\Codigos\PipeSinCliente\bin\Debug\net7.0\PipeSinCliente.pdb
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1Programacion de Procesos\Codigos\PipeSinCliente\obj\Debug\net7.0\PipeSinCliente.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1Programacion de Procesos\Codigos\PipeSinCliente\obj\Debug\net7.0\PipeSinCliente.AssemblyInfoInputs.cache
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1Programacion de Procesos\Codigos\PipeSinCliente\obj\Debug\net7.0\PipeSinCliente.AssemblyInfo.cs
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1Programacion de Procesos\Codigos\PipeSinCliente\obj\Debug\net7.0\PipeSinCliente.csproj.CoreCompileInputs.cache
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1Programacion de Procesos\Codigos\PipeSinCliente\obj\Debug\net7.0\PipeSinCliente.dll
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1Programacion de Procesos\Codigos\PipeSinCliente\obj\Debug\net7.0\refint\PipeSinCliente.dll
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1Programacion de Procesos\Codigos\PipeSinCliente\obj\Debug\net7.0\PipeSinCliente.pdb
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1Programacion de Procesos\Codigos\PipeSinCliente\obj\Debug\net7.0\PipeSinCliente.genruntimeconfig.cache
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1Programacion de Procesos\Codigos\PipeSinCliente\obj\Debug\net7.0\ref\PipeSinCliente.dll
+C:\Users\Pablo\source\repos\PipeSinCliente\bin\Debug\net7.0\PipeSinCliente.exe
+C:\Users\Pablo\source\repos\PipeSinCliente\bin\Debug\net7.0\PipeSinCliente.deps.json
+C:\Users\Pablo\source\repos\PipeSinCliente\bin\Debug\net7.0\PipeSinCliente.runtimeconfig.json
+C:\Users\Pablo\source\repos\PipeSinCliente\bin\Debug\net7.0\PipeSinCliente.dll
+C:\Users\Pablo\source\repos\PipeSinCliente\bin\Debug\net7.0\PipeSinCliente.pdb
+C:\Users\Pablo\source\repos\PipeSinCliente\obj\Debug\net7.0\PipeSinCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\source\repos\PipeSinCliente\obj\Debug\net7.0\PipeSinCliente.AssemblyInfoInputs.cache
+C:\Users\Pablo\source\repos\PipeSinCliente\obj\Debug\net7.0\PipeSinCliente.AssemblyInfo.cs
+C:\Users\Pablo\source\repos\PipeSinCliente\obj\Debug\net7.0\PipeSinCliente.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\PipeSinCliente\obj\Debug\net7.0\PipeSinCliente.dll
+C:\Users\Pablo\source\repos\PipeSinCliente\obj\Debug\net7.0\refint\PipeSinCliente.dll
+C:\Users\Pablo\source\repos\PipeSinCliente\obj\Debug\net7.0\PipeSinCliente.pdb
+C:\Users\Pablo\source\repos\PipeSinCliente\obj\Debug\net7.0\PipeSinCliente.genruntimeconfig.cache
+C:\Users\Pablo\source\repos\PipeSinCliente\obj\Debug\net7.0\ref\PipeSinCliente.dll

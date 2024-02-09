@@ -1,0 +1,28 @@
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeConServidor\bin\Debug\net7.0\PipeConServidor.exe
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeConServidor\bin\Debug\net7.0\PipeConServidor.deps.json
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeConServidor\bin\Debug\net7.0\PipeConServidor.runtimeconfig.json
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeConServidor\bin\Debug\net7.0\PipeConServidor.dll
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeConServidor\bin\Debug\net7.0\PipeConServidor.pdb
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeConServidor\obj\Debug\net7.0\PipeConServidor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeConServidor\obj\Debug\net7.0\PipeConServidor.AssemblyInfoInputs.cache
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeConServidor\obj\Debug\net7.0\PipeConServidor.AssemblyInfo.cs
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeConServidor\obj\Debug\net7.0\PipeConServidor.csproj.CoreCompileInputs.cache
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeConServidor\obj\Debug\net7.0\PipeConServidor.dll
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeConServidor\obj\Debug\net7.0\refint\PipeConServidor.dll
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeConServidor\obj\Debug\net7.0\PipeConServidor.pdb
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeConServidor\obj\Debug\net7.0\PipeConServidor.genruntimeconfig.cache
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeConServidor\obj\Debug\net7.0\ref\PipeConServidor.dll
+C:\Users\Pablo\source\repos\PipeConServidor\bin\Debug\net7.0\PipeConServidor.exe
+C:\Users\Pablo\source\repos\PipeConServidor\bin\Debug\net7.0\PipeConServidor.deps.json
+C:\Users\Pablo\source\repos\PipeConServidor\bin\Debug\net7.0\PipeConServidor.runtimeconfig.json
+C:\Users\Pablo\source\repos\PipeConServidor\bin\Debug\net7.0\PipeConServidor.dll
+C:\Users\Pablo\source\repos\PipeConServidor\bin\Debug\net7.0\PipeConServidor.pdb
+C:\Users\Pablo\source\repos\PipeConServidor\obj\Debug\net7.0\PipeConServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\source\repos\PipeConServidor\obj\Debug\net7.0\PipeConServidor.AssemblyInfoInputs.cache
+C:\Users\Pablo\source\repos\PipeConServidor\obj\Debug\net7.0\PipeConServidor.AssemblyInfo.cs
+C:\Users\Pablo\source\repos\PipeConServidor\obj\Debug\net7.0\PipeConServidor.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\PipeConServidor\obj\Debug\net7.0\PipeConServidor.dll
+C:\Users\Pablo\source\repos\PipeConServidor\obj\Debug\net7.0\refint\PipeConServidor.dll
+C:\Users\Pablo\source\repos\PipeConServidor\obj\Debug\net7.0\PipeConServidor.pdb
+C:\Users\Pablo\source\repos\PipeConServidor\obj\Debug\net7.0\PipeConServidor.genruntimeconfig.cache
+C:\Users\Pablo\source\repos\PipeConServidor\obj\Debug\net7.0\ref\PipeConServidor.dll

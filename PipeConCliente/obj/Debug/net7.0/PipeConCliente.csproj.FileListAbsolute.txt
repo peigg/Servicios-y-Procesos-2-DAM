@@ -1,0 +1,28 @@
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeConCliente\bin\Debug\net7.0\PipeConCliente.exe
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeConCliente\bin\Debug\net7.0\PipeConCliente.deps.json
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeConCliente\bin\Debug\net7.0\PipeConCliente.runtimeconfig.json
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeConCliente\bin\Debug\net7.0\PipeConCliente.dll
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeConCliente\bin\Debug\net7.0\PipeConCliente.pdb
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeConCliente\obj\Debug\net7.0\PipeConCliente.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeConCliente\obj\Debug\net7.0\PipeConCliente.AssemblyInfoInputs.cache
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeConCliente\obj\Debug\net7.0\PipeConCliente.AssemblyInfo.cs
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeConCliente\obj\Debug\net7.0\PipeConCliente.csproj.CoreCompileInputs.cache
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeConCliente\obj\Debug\net7.0\PipeConCliente.dll
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeConCliente\obj\Debug\net7.0\refint\PipeConCliente.dll
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeConCliente\obj\Debug\net7.0\PipeConCliente.pdb
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeConCliente\obj\Debug\net7.0\PipeConCliente.genruntimeconfig.cache
+D:\Wrokspace\Montecastelo23\Módulos\2DAM\Servicios y Procesos\Temario\Bloque MultiProceso\Temario\Unidad 1_Programación de Procesos\Códigos\PipeConCliente\obj\Debug\net7.0\ref\PipeConCliente.dll
+C:\Users\Pablo\source\repos\PipeConCliente\bin\Debug\net7.0\PipeConCliente.exe
+C:\Users\Pablo\source\repos\PipeConCliente\bin\Debug\net7.0\PipeConCliente.deps.json
+C:\Users\Pablo\source\repos\PipeConCliente\bin\Debug\net7.0\PipeConCliente.runtimeconfig.json
+C:\Users\Pablo\source\repos\PipeConCliente\bin\Debug\net7.0\PipeConCliente.dll
+C:\Users\Pablo\source\repos\PipeConCliente\bin\Debug\net7.0\PipeConCliente.pdb
+C:\Users\Pablo\source\repos\PipeConCliente\obj\Debug\net7.0\PipeConCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\source\repos\PipeConCliente\obj\Debug\net7.0\PipeConCliente.AssemblyInfoInputs.cache
+C:\Users\Pablo\source\repos\PipeConCliente\obj\Debug\net7.0\PipeConCliente.AssemblyInfo.cs
+C:\Users\Pablo\source\repos\PipeConCliente\obj\Debug\net7.0\PipeConCliente.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\PipeConCliente\obj\Debug\net7.0\PipeConCliente.dll
+C:\Users\Pablo\source\repos\PipeConCliente\obj\Debug\net7.0\refint\PipeConCliente.dll
+C:\Users\Pablo\source\repos\PipeConCliente\obj\Debug\net7.0\PipeConCliente.pdb
+C:\Users\Pablo\source\repos\PipeConCliente\obj\Debug\net7.0\PipeConCliente.genruntimeconfig.cache
+C:\Users\Pablo\source\repos\PipeConCliente\obj\Debug\net7.0\ref\PipeConCliente.dll

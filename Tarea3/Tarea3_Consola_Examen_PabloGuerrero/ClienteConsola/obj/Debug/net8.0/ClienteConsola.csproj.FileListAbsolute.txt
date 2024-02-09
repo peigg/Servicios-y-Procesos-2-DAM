@@ -1,0 +1,14 @@
+C:\Users\Pablo\source\repos\ClienteConsola\bin\Debug\net8.0\ClienteConsola.exe
+C:\Users\Pablo\source\repos\ClienteConsola\bin\Debug\net8.0\ClienteConsola.deps.json
+C:\Users\Pablo\source\repos\ClienteConsola\bin\Debug\net8.0\ClienteConsola.runtimeconfig.json
+C:\Users\Pablo\source\repos\ClienteConsola\bin\Debug\net8.0\ClienteConsola.dll
+C:\Users\Pablo\source\repos\ClienteConsola\bin\Debug\net8.0\ClienteConsola.pdb
+C:\Users\Pablo\source\repos\ClienteConsola\obj\Debug\net8.0\ClienteConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\source\repos\ClienteConsola\obj\Debug\net8.0\ClienteConsola.AssemblyInfoInputs.cache
+C:\Users\Pablo\source\repos\ClienteConsola\obj\Debug\net8.0\ClienteConsola.AssemblyInfo.cs
+C:\Users\Pablo\source\repos\ClienteConsola\obj\Debug\net8.0\ClienteConsola.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\ClienteConsola\obj\Debug\net8.0\ClienteConsola.dll
+C:\Users\Pablo\source\repos\ClienteConsola\obj\Debug\net8.0\refint\ClienteConsola.dll
+C:\Users\Pablo\source\repos\ClienteConsola\obj\Debug\net8.0\ClienteConsola.pdb
+C:\Users\Pablo\source\repos\ClienteConsola\obj\Debug\net8.0\ClienteConsola.genruntimeconfig.cache
+C:\Users\Pablo\source\repos\ClienteConsola\obj\Debug\net8.0\ref\ClienteConsola.dll

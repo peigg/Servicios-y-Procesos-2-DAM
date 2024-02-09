@@ -1,0 +1,10 @@
+C:\Users\Pablo\source\repos\PipeFormServidor\bin\Debug\PipeFormServidor.exe.config
+C:\Users\Pablo\source\repos\PipeFormServidor\bin\Debug\PipeFormServidor.exe
+C:\Users\Pablo\source\repos\PipeFormServidor\bin\Debug\PipeFormServidor.pdb
+C:\Users\Pablo\source\repos\PipeFormServidor\obj\Debug\PipeFormServidor.csproj.AssemblyReference.cache
+C:\Users\Pablo\source\repos\PipeFormServidor\obj\Debug\PipeFormServidor.Form1.resources
+C:\Users\Pablo\source\repos\PipeFormServidor\obj\Debug\PipeFormServidor.Properties.Resources.resources
+C:\Users\Pablo\source\repos\PipeFormServidor\obj\Debug\PipeFormServidor.csproj.GenerateResource.cache
+C:\Users\Pablo\source\repos\PipeFormServidor\obj\Debug\PipeFormServidor.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\PipeFormServidor\obj\Debug\PipeFormServidor.exe
+C:\Users\Pablo\source\repos\PipeFormServidor\obj\Debug\PipeFormServidor.pdb

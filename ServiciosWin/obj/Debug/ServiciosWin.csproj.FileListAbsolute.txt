@@ -1,0 +1,29 @@
+C:\Users\danhm\Desktop\WorkSpace\2021\Montecastelo\Servicios\Módulos\U2_Servicios en red\T2_Generación servicios en red\Códigos\ServiciosWin\bin\Debug\ServiciosWin.exe.config
+C:\Users\danhm\Desktop\WorkSpace\2021\Montecastelo\Servicios\Módulos\U2_Servicios en red\T2_Generación servicios en red\Códigos\ServiciosWin\bin\Debug\ServiciosWin.exe
+C:\Users\danhm\Desktop\WorkSpace\2021\Montecastelo\Servicios\Módulos\U2_Servicios en red\T2_Generación servicios en red\Códigos\ServiciosWin\bin\Debug\ServiciosWin.pdb
+C:\Users\danhm\Desktop\WorkSpace\2021\Montecastelo\Servicios\Módulos\U2_Servicios en red\T2_Generación servicios en red\Códigos\ServiciosWin\obj\Debug\ServiciosWin.csproj.AssemblyReference.cache
+C:\Users\danhm\Desktop\WorkSpace\2021\Montecastelo\Servicios\Módulos\U2_Servicios en red\T2_Generación servicios en red\Códigos\ServiciosWin\obj\Debug\ServiciosWin.csproj.CoreCompileInputs.cache
+C:\Users\danhm\Desktop\WorkSpace\2021\Montecastelo\Servicios\Módulos\U2_Servicios en red\T2_Generación servicios en red\Códigos\ServiciosWin\obj\Debug\ServiciosWin.exe
+C:\Users\danhm\Desktop\WorkSpace\2021\Montecastelo\Servicios\Módulos\U2_Servicios en red\T2_Generación servicios en red\Códigos\ServiciosWin\obj\Debug\ServiciosWin.pdb
+D:\WorkSpace\Curso 22_23\Montecastelo\Servicios y Procesos\U2_Servicios en red\T2_Generación servicios en red\Códigos\ServiciosWin\bin\Debug\ServiciosWin.exe.config
+D:\WorkSpace\Curso 22_23\Montecastelo\Servicios y Procesos\U2_Servicios en red\T2_Generación servicios en red\Códigos\ServiciosWin\bin\Debug\ServiciosWin.exe
+D:\WorkSpace\Curso 22_23\Montecastelo\Servicios y Procesos\U2_Servicios en red\T2_Generación servicios en red\Códigos\ServiciosWin\bin\Debug\ServiciosWin.pdb
+D:\WorkSpace\Curso 22_23\Montecastelo\Servicios y Procesos\U2_Servicios en red\T2_Generación servicios en red\Códigos\ServiciosWin\obj\Debug\ServiciosWin.csproj.AssemblyReference.cache
+D:\WorkSpace\Curso 22_23\Montecastelo\Servicios y Procesos\U2_Servicios en red\T2_Generación servicios en red\Códigos\ServiciosWin\obj\Debug\ServiciosWin.csproj.SuggestedBindingRedirects.cache
+D:\WorkSpace\Curso 22_23\Montecastelo\Servicios y Procesos\U2_Servicios en red\T2_Generación servicios en red\Códigos\ServiciosWin\obj\Debug\ServiciosWin.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Curso 22_23\Montecastelo\Servicios y Procesos\U2_Servicios en red\T2_Generación servicios en red\Códigos\ServiciosWin\obj\Debug\ServiciosWin.exe
+D:\WorkSpace\Curso 22_23\Montecastelo\Servicios y Procesos\U2_Servicios en red\T2_Generación servicios en red\Códigos\ServiciosWin\obj\Debug\ServiciosWin.pdb
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque Servicios en Red\Unidad 4_Generación de servicios en red\Códigos\ServiciosWin\bin\Debug\ServiciosWin.exe.config
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque Servicios en Red\Unidad 4_Generación de servicios en red\Códigos\ServiciosWin\bin\Debug\ServiciosWin.exe
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque Servicios en Red\Unidad 4_Generación de servicios en red\Códigos\ServiciosWin\bin\Debug\ServiciosWin.pdb
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque Servicios en Red\Unidad 4_Generación de servicios en red\Códigos\ServiciosWin\obj\Debug\ServiciosWin.csproj.AssemblyReference.cache
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque Servicios en Red\Unidad 4_Generación de servicios en red\Códigos\ServiciosWin\obj\Debug\ServiciosWin.csproj.CoreCompileInputs.cache
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque Servicios en Red\Unidad 4_Generación de servicios en red\Códigos\ServiciosWin\obj\Debug\ServiciosWin.exe
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque Servicios en Red\Unidad 4_Generación de servicios en red\Códigos\ServiciosWin\obj\Debug\ServiciosWin.pdb
+C:\Users\Pablo\source\repos\ServiciosWin\bin\Debug\ServiciosWin.exe.config
+C:\Users\Pablo\source\repos\ServiciosWin\bin\Debug\ServiciosWin.exe
+C:\Users\Pablo\source\repos\ServiciosWin\bin\Debug\ServiciosWin.pdb
+C:\Users\Pablo\source\repos\ServiciosWin\obj\Debug\ServiciosWin.csproj.AssemblyReference.cache
+C:\Users\Pablo\source\repos\ServiciosWin\obj\Debug\ServiciosWin.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\ServiciosWin\obj\Debug\ServiciosWin.exe
+C:\Users\Pablo\source\repos\ServiciosWin\obj\Debug\ServiciosWin.pdb

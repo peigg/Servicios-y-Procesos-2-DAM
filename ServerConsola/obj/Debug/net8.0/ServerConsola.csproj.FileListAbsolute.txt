@@ -1,0 +1,14 @@
+C:\Users\Pablo\source\repos\ServerConsola\bin\Debug\net8.0\ServerConsola.exe
+C:\Users\Pablo\source\repos\ServerConsola\bin\Debug\net8.0\ServerConsola.deps.json
+C:\Users\Pablo\source\repos\ServerConsola\bin\Debug\net8.0\ServerConsola.runtimeconfig.json
+C:\Users\Pablo\source\repos\ServerConsola\bin\Debug\net8.0\ServerConsola.dll
+C:\Users\Pablo\source\repos\ServerConsola\bin\Debug\net8.0\ServerConsola.pdb
+C:\Users\Pablo\source\repos\ServerConsola\obj\Debug\net8.0\ServerConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\source\repos\ServerConsola\obj\Debug\net8.0\ServerConsola.AssemblyInfoInputs.cache
+C:\Users\Pablo\source\repos\ServerConsola\obj\Debug\net8.0\ServerConsola.AssemblyInfo.cs
+C:\Users\Pablo\source\repos\ServerConsola\obj\Debug\net8.0\ServerConsola.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\ServerConsola\obj\Debug\net8.0\ServerConsola.dll
+C:\Users\Pablo\source\repos\ServerConsola\obj\Debug\net8.0\refint\ServerConsola.dll
+C:\Users\Pablo\source\repos\ServerConsola\obj\Debug\net8.0\ServerConsola.pdb
+C:\Users\Pablo\source\repos\ServerConsola\obj\Debug\net8.0\ServerConsola.genruntimeconfig.cache
+C:\Users\Pablo\source\repos\ServerConsola\obj\Debug\net8.0\ref\ServerConsola.dll

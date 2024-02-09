@@ -1,0 +1,10 @@
+C:\Users\Pablo\source\repos\CarreraMotos\bin\Debug\CarreraMotos.exe.config
+C:\Users\Pablo\source\repos\CarreraMotos\bin\Debug\CarreraMotos.exe
+C:\Users\Pablo\source\repos\CarreraMotos\bin\Debug\CarreraMotos.pdb
+C:\Users\Pablo\source\repos\CarreraMotos\obj\Debug\CarreraMotos.csproj.AssemblyReference.cache
+C:\Users\Pablo\source\repos\CarreraMotos\obj\Debug\CarreraMotos.Form1.resources
+C:\Users\Pablo\source\repos\CarreraMotos\obj\Debug\CarreraMotos.Properties.Resources.resources
+C:\Users\Pablo\source\repos\CarreraMotos\obj\Debug\CarreraMotos.csproj.GenerateResource.cache
+C:\Users\Pablo\source\repos\CarreraMotos\obj\Debug\CarreraMotos.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\CarreraMotos\obj\Debug\CarreraMotos.exe
+C:\Users\Pablo\source\repos\CarreraMotos\obj\Debug\CarreraMotos.pdb
